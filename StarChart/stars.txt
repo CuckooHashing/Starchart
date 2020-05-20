@@ -1,0 +1,14 @@
+Antares;Scorpius;16;-26;700;
+Acrab;Scorpius;16;-19;16;
+Sargas;Scorpius;17;-42;26;
+Jabbah;Scorpius;16;-19;30;
+Betelgeuse;Orion;5;7;900;
+Rigel;Orion;5;-8;80;
+Bellatrix;Orion;5;6;12;
+Mintaka;Orion;5;1;40;
+Alnilam;Orion;5;-1;32;
+Alnitak;Orion;5;0;27;
+Saiph;Orion;5;-9;22;
+Eltanin;Draco;17;51;49;
+Omicron Draconis;Draco;18;59;30;
+Thuban;Draco;14;64;20;
